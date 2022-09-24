@@ -1,0 +1,41 @@
+body{background-color: #100720;
+    color: #F7F6DC;
+}
+hr{border: none;
+    height:12px;
+     color: grey;
+     border-top: dotted;
+     border-width: thick;
+     width: 20%;
+     border-width:15px;
+}
+.img:hover{background-color: aliceblue;
+border-radius: 40px;
+}
+h1:hover{
+    background-color: blue;
+}
+.img{
+    width: 80%;
+    border-radius: 100%;
+}
+#t-form{
+    font-size: 50px;
+}
+.welcome{
+    background-color: #F7F6DC; 
+    color: #100720;
+    text-align: center;
+}
+
+.contact:hover{ color: #F7F6DC;
+
+}
+.bottom-container{text-align: center;
+
+    height: 40px;
+    padding-top: 50px;
+}
+.footer-link:hover{color: #F7F6DC;
+    
+}
